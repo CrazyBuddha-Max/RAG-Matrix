@@ -1,2 +1,2 @@
-#Method 1
--Using intelligent retrieval
+# Method 1
+- Using intelligent retrieval
